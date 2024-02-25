@@ -1,0 +1,8 @@
+.header__title {
+   text-align: center;
+   margin-top: 3rem;
+   font-size: 80px;
+   font-weight: 600;
+   text-transform: capitalize;
+   font-family: 'Poppins', sans-serif;
+}
